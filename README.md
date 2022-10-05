@@ -1,8 +1,8 @@
 # Olá, me chamo Marco Túlio Vilaça Diniz ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando (e aprendendo muito) com Angular e Java na ###Tree Tecnologia
-- 🌱 Atualmente estou estudando BackEnd na ###TRYBE
+- 🔭 Atualmente estou trabalhando (e aprendendo muito) com Angular e Java na <h5>Tree Tecnologia<h5>
+- 🌱 Atualmente estou estudando BackEnd na <h5>TRYBE<h5>
 - 📫 Entre em contato pelo linkedin
 
 ## Tecnologias
