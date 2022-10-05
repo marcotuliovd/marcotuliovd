@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando (e aprendendo muito) com Angular e Java na Tree Tecnologia
-- 🌱 Atualmente estou estudando BackEnd na <img height="30" src="https://camo.githubusercontent.com/161e06fde0c1fa0a28e5ed5880bc55076b004ca4d91a50f466fbecfb44e522ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54727962652d626c756576696f6c65743f636f6c6f723d324542423838" data-canonical-src="https://img.shields.io/badge/Trybe-blueviolet?color=2EBB88" style="max-width: 100%;">
+- 🌱 Atualmente estou estudando BackEnd na <img height="30" src="https://camo.githubusercontent.com/161e06fde0c1fa0a28e5ed5880bc55076b004ca4d91a50f466fbecfb44e522ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54727962652d626c756576696f6c65743f636f6c6f723d324542423838" data-canonical-src="https://img.shields.io/badge/Trybe-blueviolet?color=2EBB88" style="max-width: 50%;">
 - 📫 Entre em contato pelo linkedin
 
 ## Tecnologias
