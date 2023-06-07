@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando como Desenvolvedor Back-End na QESH
-- 🌱 Atualmente estou estudando BackEnd na TRYBE
+- 🌱 Atualmente estou estudando Engenharia Mecânica com pé na tecnologia
 - 📫 Entre em contato pelo Linkedin ou pelo meu email marcotuliodiniz2257@gmail.com
 
 ## Tecnologias
