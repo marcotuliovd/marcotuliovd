@@ -1,7 +1,7 @@
 # Olá, me chamo Marco Túlio Vilaça Diniz ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando como Desenvolvedor Back-End na QESH
+- 🔭 Atualmente estou trabalhando como Desenvolvedor Full Stack no CLUBE ATLETICO MINEIRO
 - 🌱 Atualmente estou estudando Engenharia Mecânica com pé na tecnologia
 - 📫 Entre em contato pelo Linkedin ou pelo meu email marcotuliodiniz2257@gmail.com
 
